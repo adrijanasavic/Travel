@@ -306,6 +306,41 @@ header nav ul li a {
     width: 100%;
 }
 
+.contact-hero {
+    height: 300px;
+    background: url(resursi/Contact_Us.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact .form {
+    width: 60%;
+    margin: 50px 0 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact .form .info-sec {
+    margin-right: 20px;
+}
+
+#contact .form .info-sec .title {
+    color: #f2a463;
+    font-weight: bold;
+}
+
+#mapSection iframe {
+    width: 100%;
+}
+
 footer {
     background-color: #f2a463;
     height: 50px;
