@@ -302,6 +302,10 @@ header nav ul li a {
     display: none;
 }
 
+#blog .article1 img {
+    width: 100%;
+}
+
 footer {
     background-color: #f2a463;
     height: 50px;
